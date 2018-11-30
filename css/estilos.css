@@ -101,10 +101,18 @@ footer{
     padding: 20px 50px;
     font-weight: 600;
 }
+footer a{
+    color: #000;
+    text-decoration: none;
+}
 #seccion-central img,
-#seccion-secundario img,
+#seccion-secundaria img,
 #seccion-galeria img{
     box-shadow: 2px 2px #02010a;
+}
+#seccion-central img,
+#seccion-secundaria img{
+    border: 1px solid black;
 }
 #contacto,
 #terminos,
