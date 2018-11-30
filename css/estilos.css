@@ -101,7 +101,9 @@ footer{
     padding: 20px 50px;
     font-weight: 600;
 }
-img{
+#seccion-central img,
+#seccion-secundario img,
+#seccion-galeria img{
     box-shadow: 2px 2px #02010a;
 }
 #contacto,
